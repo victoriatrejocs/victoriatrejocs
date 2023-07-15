@@ -1,10 +1,16 @@
-![MasterHead](https://media.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif)
-<h1 align="center">Hi 👋, I'm Victoria</h1>
+![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+<h1 align="center">Hi 👋, I'm Victoria Trejo</h1>
 <h3 align="center">A passionate frontend developer from Mexico 🌮</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victoriatrejocs" alt="victoriatrejocs" /></a> </p>
+- 🔭 I’m currently working on **expanding my knowledge!**
 
 - 🌱 I’m currently learning **TypeScript & Python**
+
+- 👯 I’m looking to collaborate on **any interesting projects!**
+
+- 🤝 I’m looking for help with **environmental issues**
+
+- 💬 Ask me about **FrontEnd Development!**
 
 - 📫 How to reach me **victoriatrejocs@gmail.com**
 
