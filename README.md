@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Python**
 
-- 👯 I’m looking to collaborate on **any interesting projects!**
-
-- 🤝 I’m looking for help with **environmental issues**
+- 👯 I’m looking to collaborate on **any interesting projects, especially about environmental issues!**
 
 - 💬 Ask me about **FrontEnd Development!**
 
